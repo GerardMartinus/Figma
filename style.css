@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+h1{
+    padding-top: 10px;
+}
+.content{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.center{
+    border-radius: 20px;
+    text-align: center;
+    background-color: darkcyan;
+    left: 10%;
+    top: 20px;
+    position: relative;
+    width: 80%;
+    height: 80%;
+}
+button {
+    background-color: cadetblue;
+    border-radius: 10px;
+    margin: 20px;
+    height: 30px;
+    width: 100px;
+}
